@@ -21,7 +21,7 @@ The program simulates the scheduling of processes using three different algorith
 4. The program will output the scheduling results for each algorithm, including average throughput time, turnaround time, and response time.
 
 ## Contributing
-Contributions are welcome! If you'd like to contribute to this project, feel free to submit a [pull request](https://github.com/your-username/process-scheduling/pulls).
+Contributions are welcome! If you'd like to contribute to this project, feel free to submit a [pull request](https://github.com/Nerdacus/431_Scheduling/pulls).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
